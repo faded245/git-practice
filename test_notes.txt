@@ -1,1 +1,2 @@
 TRX Board Test Initialized: OK
+TRX Power Rail Check: PASS
